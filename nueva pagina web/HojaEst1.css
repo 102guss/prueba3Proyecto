@@ -1,0 +1,178 @@
+
+body{
+    background-color:lightslategray
+
+}
+/*  INICO NUNÚ................................................*/
+aside.menuV{
+    float: left;
+    width: 15%;
+    overflow: hidden;
+    border: px double;
+    border: solid;
+    border-width:9px;
+   /* margin-left: 100px;*/
+  
+}
+
+aside.menuV a{
+    background-color:  #a63e49;
+    color: white;
+    text-decoration: none;
+    padding: 40px;
+    display: block;
+  
+}
+
+.menuV a:hover{
+    background-color: white;
+    color: black;
+}
+
+img.cuadrado{
+    float: left;
+    width: 90%;
+    border: 8px solid;
+}
+
+
+img.abrigos1{
+    margin-right: 350px;
+    border: solid;
+}
+
+div.lomrems{
+   width: 1300px;
+    
+}
+
+div.lomrems2{
+   width: 1450px;
+    
+ }
+p.lorem1{
+    margin-left: 450px;
+   text-align: justify;
+}
+
+p.lorem2{
+    margin-left: 750px;
+    text-align: justify;
+}
+
+
+input.boton1{
+    margin-left: 120px;;
+    
+}
+input.boton2{
+    margin-left: 20px;;
+    
+}
+
+
+hr.lineaLarga{
+    width: 1800px;
+}
+
+img.abrigos1{
+
+    float: right;
+    width: 400px;
+    height: 300px;
+}
+
+img.lorem2{
+    float: left;
+
+}
+
+img.geans1{
+    float: left;
+
+}
+h3,h2{
+    text-align: center;
+}
+
+
+hr.lineaC{
+    width: 80px;
+}
+h1{
+    text-align: center;
+}
+
+h2.conoC{
+    text-align: center;
+}
+hr.lineacorta{
+    width: 150px;
+}
+
+p.conocimientos{
+    text-align: justify;
+    
+}
+
+
+div.conocimientosD{
+    
+    border: solid;
+    text-align: justify;
+    width: 1000px;
+}
+
+
+
+h1,h2,h3.mistrabajos,pre,p{
+    color: white;
+}
+h2.mitrabajo,h3.mistrabajos{
+    text-align: center;
+}
+
+
+td,br, table{
+    color: white;
+}
+
+img.collar,.relog,.pulsera1,.anillo1{
+width: 130px;
+height: 130px;
+margin-left: 140px;
+
+}
+
+table.tabla1{
+
+    border-width: 5px;
+    background-color: dimgrey;
+}
+
+img.invierno1, .chamarra1, .sueter1,.chammara2,.verano1,.abrigo1{
+
+width:300px;
+height:300px;
+}
+
+input.campoAsunto,.campoMensaje{
+
+    width: 500px;
+   
+}
+
+
+input.campoNombre, .campoEmail{
+
+    width: 245px;
+}
+
+input.campoNombre, .campoEmail,  .campoAsunto, .campoMensaje{
+
+    background-color: gold;
+}
+
+
+
+/* FIN MENÚ.............................................. */
